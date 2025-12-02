@@ -1,2 +1,2 @@
 # Kubilius-Galton-Watson-Random-Model
-Computes statistics for the tower factorization of integers.
+Computes statistical predictions for the tower factorization of integers using a Kubilius/Galton-Watson random model.
